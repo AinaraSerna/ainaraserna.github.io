@@ -24,8 +24,8 @@ Buscador con expresiones regulares que busca en distintas tablas de BD.<br>
 👉🏻 *[Ver repositorio](https://github.com/AinaraSerna/java-swing-consulta-BBDD)*
 
 ### 🔹 API REST en Java
-CRUD completo con validaciones y conexión a base de datos.  
-👉🏻 *[Ver repositorio](#)*
+CRUD completo con validaciones y conexión a base de datos MySQL.  
+👉🏻 *[Ver repositorio](https://github.com/AinaraSerna/api-rest-java-mysql)*
 
 ### 🔹 Scripts de automatización (PowerShell)
 Colección de scripts para el despliegue de unidades organizativas, grupos y usuarios en Windows Server.<br>
