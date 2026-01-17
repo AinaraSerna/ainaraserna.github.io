@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+    padding: auto;
+    background-color: #f2f2f2;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 2% 10% 2% 10%;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    text-decoration: underline purple;
+}
+
+hr {
+    border: 1px solid purple;
+    opacity: 0.5;
+    margin: 1% 0 3% 0;
+}
